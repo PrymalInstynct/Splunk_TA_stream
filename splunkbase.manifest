@@ -1,0 +1,555 @@
+{
+  "version": "1.0",
+  "date": "2024-06-05T14:07:36.975726241Z",
+  "hashAlgorithm": "SHA-256",
+  "app": {
+    "id": 5238,
+    "version": "8.1.3",
+    "files": [
+      {
+        "path": "configs/es/streams/ES_DHCP_RAW",
+        "hash": "21b98a6fa1def7605603aadc42be1ba07ac2dcb70b02e32e1bbee9e761164476"
+      },
+      {
+        "path": "configs/es/streams/ES_DNS_RAW",
+        "hash": "5f23d88b12bcd9c4875a3fde27241e9180d420590c1e7545bc809d3e4e55a29c"
+      },
+      {
+        "path": "configs/es/streams/ES_FTP_RAW",
+        "hash": "fce273eb896c2e3cbb0c1b1cbb67936c16099294202f0ba57a601ff32198b00c"
+      },
+      {
+        "path": "configs/es/streams/ES_HTTP_RAW",
+        "hash": "2cd71511592d8dfaefc993330147fba5a5a812ec832c6d1ce5966ac0aa158202"
+      },
+      {
+        "path": "configs/es/streams/ES_ICMP_RAW",
+        "hash": "689ca8b24746b357e6d5bcfb7f69d2b4a2e5fdbf9f0b875593b935d977679821"
+      },
+      {
+        "path": "configs/es/streams/ES_IP_RAW",
+        "hash": "bededc94bd9c69c7917b8df332444b5b78f7f45df24bdbeefe42be537996492b"
+      },
+      {
+        "path": "configs/es/streams/ES_MAPI_RAW",
+        "hash": "7e592c34f73bb7358d52c3533072542d48ece658e52cbf3c68304e23a7fffd1e"
+      },
+      {
+        "path": "configs/es/streams/ES_MYSQL_RAW",
+        "hash": "60c0b93cffd14a7dd636b36bb412433b6c0ce39c68815b0245faa7f0ad829cbe"
+      },
+      {
+        "path": "configs/es/streams/ES_POP3_RAW",
+        "hash": "16e54f1f51da54dfdbe5c3b1f517dbceb7bd0e4b78faee726c7254d1a2939e9e"
+      },
+      {
+        "path": "configs/es/streams/ES_POSTGRES_RAW",
+        "hash": "a732d312ea3499628aed7d4123201941d579da0602ecf36cca40f92b4f63c357"
+      },
+      {
+        "path": "configs/es/streams/ES_SMTP_RAW",
+        "hash": "0aabfcf16b1dceb81cb5081399e07627bf547e40d514b89fdd9d0ca503931bdf"
+      },
+      {
+        "path": "configs/es/streams/ES_TCP_RAW",
+        "hash": "4b6b3afd02c8ae018f6ffaa8b000c1713e7e853b12b56fc288439331b7a88fde"
+      },
+      {
+        "path": "configs/es/streams/ES_TDS_RAW",
+        "hash": "bcf097aa83e98836105c5257c32d728041889c5bcf97ef848bd3a0716cc2f0e4"
+      },
+      {
+        "path": "configs/es/streams/ES_TNS_RAW",
+        "hash": "363453444b688c77b1c874e50412e6667e1b651d4a819d5e53d7482f6fc18f52"
+      },
+      {
+        "path": "configs/es/streams/ES_UDP_RAW",
+        "hash": "b349cb66eaf3a8c4a4dd0bb02f8d5ad40e3af5ca50593ee820dca70f0cd6f8dc"
+      },
+      {
+        "path": "configs/es/streams/ES_XMPP_RAW",
+        "hash": "36d9bcc878ffa3098cdb090a6e863ba8df6bc6be3bb729b70ea9f736c60f4426"
+      },
+      {
+        "path": "configs/itsi/streams/ITSI_DHCP_Raw",
+        "hash": "be4c2f78dfce02f02824c92cd40d7deebbf4b94dec024cf0c406226b33b0f305"
+      },
+      {
+        "path": "configs/itsi/streams/ITSI_DNS_Raw",
+        "hash": "1dba18e1ed3a91b160dfb3c782402cda319b60a8c3e32467baad2e94d0b22943"
+      },
+      {
+        "path": "configs/itsi/streams/ITSI_HTTP_Raw",
+        "hash": "0e808715eb56043eeddcc79bf285f97acebbb7c386b65cfc83634e993a94689e"
+      },
+      {
+        "path": "configs/itsi/streams/ITSI_ICMP_Raw",
+        "hash": "c704c9721994d39684a8c984982e853576c236e9f4d61233756405d9aaba6355"
+      },
+      {
+        "path": "configs/itsi/streams/ITSI_IP_Raw",
+        "hash": "546f4d77a547aafe181632dbdd757300a556010ea6c4c1aee273ff1a858e7629"
+      },
+      {
+        "path": "configs/itsi/streams/ITSI_MYSQL_Raw",
+        "hash": "d0e754883042f4f4f273acfe1d7f7b3c0280339e4770685b6f36c62a05ba99f4"
+      },
+      {
+        "path": "configs/itsi/streams/ITSI_POSTGRESQL_Raw",
+        "hash": "d431e8047bc4547372cf3a1a5e3aec31402dde54b3ee76b8a844503f903e99cb"
+      },
+      {
+        "path": "configs/itsi/streams/ITSI_TCP_Raw",
+        "hash": "c6733fe79280a36317b386ae48de6d83e7af10d5c726198b61b4882dc93a1af8"
+      },
+      {
+        "path": "configs/itsi/streams/ITSI_TDS_Raw",
+        "hash": "08bf3eb648cc322b9bb5a3c870fc00003bdd5a920530c49cdfeca903443055ad"
+      },
+      {
+        "path": "configs/itsi/streams/ITSI_TNS_Raw",
+        "hash": "cf5be2e96cc5494a51f4598e7df8113ba6b603726b2d9aad9259e9fb96a47b45"
+      },
+      {
+        "path": "configs/itsi/streams/ITSI_UDP_Raw",
+        "hash": "5ed45f64aec32405723ad4e8c3fad948a39408d66b297cfe06f9b582754b2038"
+      },
+      {
+        "path": "darwin_x86_64/bin/streamfwd",
+        "hash": "0ab148a708353d710719ba57f790c1109aa729a950abc380f9936239c41e826f"
+      },
+      {
+        "path": "default/app.conf",
+        "hash": "19807b7d9956fcddf5bbab660f51db5e5b480023e093043093b72259cbd5213f"
+      },
+      {
+        "path": "default/inputs.conf",
+        "hash": "2b747024b0d3577a0133a5656eb53e2c8221139d2a0f292031dcdaebe3736aa4"
+      },
+      {
+        "path": "default/sample2.stream",
+        "hash": "c3130470dafe23597448ae5990788e7e2680a27e75b7e9316d1e1424e0df4ae2"
+      },
+      {
+        "path": "default/server.conf",
+        "hash": "7ff0fe5fb036ccd568b1bee0d7fb5f87f3bb290d153e0a6988b9a994f74a54e2"
+      },
+      {
+        "path": "default/streamfwd.conf",
+        "hash": "889dad8f3e04060d15746abe61595987d40e588c2cf206b1b746251fb7453814"
+      },
+      {
+        "path": "default/streamfwdlog.conf",
+        "hash": "c8e0b3bdc0efadaaf8bf80fef8f4935debb470f23849dd7a47fb75107e574cd0"
+      },
+      {
+        "path": "default/vocabularies/aggregate.xml",
+        "hash": "a146ed2bb57dbf92383b7a09a92ac41b0ab82679f6877eeb778c999b4dc1860c"
+      },
+      {
+        "path": "default/vocabularies/amqp.xml",
+        "hash": "0ee6f7090afbe2b0de45cff09e94f10214ae92b59d6fb68d8bfc40aa4148f90b"
+      },
+      {
+        "path": "default/vocabularies/arp.xml",
+        "hash": "679f8150789782d8e1dc73bf4f9e06e4ad680603dec572c8665fde051f297b7e"
+      },
+      {
+        "path": "default/vocabularies/atom.xml",
+        "hash": "b1ebee9ba11e3230e3e4724d9b41510edf8162211a871fc275a7c7620470b89f"
+      },
+      {
+        "path": "default/vocabularies/database.xml",
+        "hash": "f6ad55cbec00c429642f9b8b69e29680685f009d2e09222d09b16131ebd9dd7c"
+      },
+      {
+        "path": "default/vocabularies/dhcp.xml",
+        "hash": "a9d39e24bf9dc26fbc7681c6ee06751de9046bec55da96dbb9aa83f454164289"
+      },
+      {
+        "path": "default/vocabularies/diameter.xml",
+        "hash": "830d1733768ef0a2a8c386f1b97da54303b7de15790c92ee6eee485a9361ccd8"
+      },
+      {
+        "path": "default/vocabularies/dns.xml",
+        "hash": "ce4d3fc0f67c755be4d5493c0b183ebd364bb34ee7df682afc49b71560f625d7"
+      },
+      {
+        "path": "default/vocabularies/email.xml",
+        "hash": "6f310ba9582e94604ec68b7a47b6fe74b2bcdf17b6423b0c48603dcd9106d0dc"
+      },
+      {
+        "path": "default/vocabularies/flow.xml",
+        "hash": "6f4fbf48f7b7f9ffcaa66c0f98d45a4f9d2c79708f86f1be058e870bc40dae00"
+      },
+      {
+        "path": "default/vocabularies/ftp.xml",
+        "hash": "4fd32e32d55046ce6dd93f5c396799f680e864c9ed4ac825c6be3d244e9f5549"
+      },
+      {
+        "path": "default/vocabularies/google.xml",
+        "hash": "ddb5ce1329d6dcfbfb1c01dfd85e267233c8bf6854a5cf5b5aaf741a95f6a1c5"
+      },
+      {
+        "path": "default/vocabularies/http.xml",
+        "hash": "68a0de0b3efe211fd6af976903ebd73df78495aaf6df856502d880e645cdc2de"
+      },
+      {
+        "path": "default/vocabularies/icmp.xml",
+        "hash": "1c5adc99028f725ca49bc990488fdc0fb7bbdcce07bad1c730b39a6bf67e9de0"
+      },
+      {
+        "path": "default/vocabularies/igmp.xml",
+        "hash": "66d6b99f63adf6b1a3e65399a214c3a362ad0533f3ebea1c730f12c7b9e83385"
+      },
+      {
+        "path": "default/vocabularies/imap.xml",
+        "hash": "e988a87f763b69491e6d7b22ecbefe99717473622a21901bacec277c176a4dbc"
+      },
+      {
+        "path": "default/vocabularies/ip.xml",
+        "hash": "fd71493ba31ced084bca6963c2681470003fa70bc2eb2291b4352f6a250c3a1e"
+      },
+      {
+        "path": "default/vocabularies/irc.xml",
+        "hash": "978aa9d737d448b55b7d3dd35e3f5a0512d503ce5ea8c3a73c08de9d4fe18de3"
+      },
+      {
+        "path": "default/vocabularies/ldap.xml",
+        "hash": "07f9beaaaf18a3f139bf055ce513baf03179fadcc57838e962b71d1dd1f92e53"
+      },
+      {
+        "path": "default/vocabularies/mapi.xml",
+        "hash": "c8c402aeaa044e6088e6adbc96b720f8b478e374faca5d04c8343c51a4648894"
+      },
+      {
+        "path": "default/vocabularies/messaging.xml",
+        "hash": "9c080aa75636901a4ddcdcc4ffeb88be8d81104c37c6398e66ccb2ed3f667f1c"
+      },
+      {
+        "path": "default/vocabularies/modbus.xml",
+        "hash": "e553669c8a2ced32434a62e64eca9124632b91ae630d71637b239f8bf7cb9f02"
+      },
+      {
+        "path": "default/vocabularies/mount.xml",
+        "hash": "19f94ad2b2dfe458bb459dfcf9783dc8e4a7591097d2075bbcd67ba96caa2c68"
+      },
+      {
+        "path": "default/vocabularies/mysql.xml",
+        "hash": "a28fb185accaa429cd6e228b0f18b16b81ab794138fcddaa19f87424f38f7e02"
+      },
+      {
+        "path": "default/vocabularies/netflow.xml",
+        "hash": "2e618085ba95c4d1b7e54ee40eee3f24b3420c6cfe0a327f8535cf49314c493e"
+      },
+      {
+        "path": "default/vocabularies/nfs.xml",
+        "hash": "f58058079d536becc0b0027a76fa7101e7965b47aec0761e2d4e28e916fe330a"
+      },
+      {
+        "path": "default/vocabularies/omniture.xml",
+        "hash": "157faadeffae0a1a73239dd732da980f09f73c508072bc0247ff35bde205227d"
+      },
+      {
+        "path": "default/vocabularies/pop3.xml",
+        "hash": "d8e43adf7045ccc6965efe6b7dc77494dcb86f252a64914edfde83fbeaafc725"
+      },
+      {
+        "path": "default/vocabularies/postgres.xml",
+        "hash": "1b881fafc2fc5bdf7256c35b340605c2e374ad8a35b54eff4ad7812da1723004"
+      },
+      {
+        "path": "default/vocabularies/radius.xml",
+        "hash": "df9f1786e9bd6d1c9932ffb6c9564c92e421ab1108ba4d2ed81f1b3bddfdee69"
+      },
+      {
+        "path": "default/vocabularies/rpc.xml",
+        "hash": "3b2dec97d7d3a604ba01f72d444118ee7c2567b4212940dc9af03abaaf451b82"
+      },
+      {
+        "path": "default/vocabularies/rss.xml",
+        "hash": "d68d1f23c779535b2c85fba426b0be5216ad4619aac20469af129508f89fac7d"
+      },
+      {
+        "path": "default/vocabularies/rtcp.xml",
+        "hash": "0347fafffb761f22ab493fe4ce6fe0acaf98e2ab64099c7fd640f6af1149e4f8"
+      },
+      {
+        "path": "default/vocabularies/rtp.xml",
+        "hash": "8af571cf64d171779f628a39294686d1cb73bcc8233c4405831073ae03b2ac90"
+      },
+      {
+        "path": "default/vocabularies/sflow.xml",
+        "hash": "4dbd23562ecf40396e1a7b2b8ff03540880b15f0e3fc8fc9d5ec068485a75886"
+      },
+      {
+        "path": "default/vocabularies/sip.xml",
+        "hash": "8332269285a631de722bcbe734ae230f9115ffd1b677604d0c7c811129ece2dd"
+      },
+      {
+        "path": "default/vocabularies/smb.xml",
+        "hash": "2a220517187edeff589f12bdfb752b8d4e0a4bf9154d240f6d297082602c8f55"
+      },
+      {
+        "path": "default/vocabularies/smpp.xml",
+        "hash": "c5ff5a13c89d5bdaac13a6c6071117b1e4da9066ea61c5155bb1de94a1e003bc"
+      },
+      {
+        "path": "default/vocabularies/smtp.xml",
+        "hash": "8eddc49abcaff3e605661e3a8de90de8a77a700de4b3c2db9d1825bb2ef3e058"
+      },
+      {
+        "path": "default/vocabularies/snmp.xml",
+        "hash": "04a2a8e086085deafe7bbad97784d583a4981f64424eaed410ef24181ef19e5f"
+      },
+      {
+        "path": "default/vocabularies/sql.xml",
+        "hash": "9e44bf6d623bac5398936404b77ba4a3b013c0775c09a1ea50b0560308809cee"
+      },
+      {
+        "path": "default/vocabularies/ssh.xml",
+        "hash": "48341df81a6d6c98e413205f326a273374bc7f1cf13e97850501e027287a75ab"
+      },
+      {
+        "path": "default/vocabularies/tds.xml",
+        "hash": "0bd14f92e5162c453636e70e9635180565cde6b68df908e8849aaf0f5470a13b"
+      },
+      {
+        "path": "default/vocabularies/time.xml",
+        "hash": "a1d0887f93c4e56b82ad6267717516589fcad6bfa7a1dfc97f2ed8118f0e48b2"
+      },
+      {
+        "path": "default/vocabularies/tns.xml",
+        "hash": "a64cb34456a553029267c9b09013a426238b6929f64a3b8213c8666386df96c5"
+      },
+      {
+        "path": "default/vocabularies/xmpp.xml",
+        "hash": "899d740a55404d1619365244635980eacd3faee115b9ed4fddc1edce0bb72bc7"
+      },
+      {
+        "path": "LICENSE.txt",
+        "hash": "f0125f2731bc60792d5b67c95af7dc1f086a32ca3c8a6514b8e8031ae37aadcb"
+      },
+      {
+        "path": "linux_x86_64/bin/streamfwd",
+        "hash": "bad289d281d036d3ed4b53838c632977472747cbd90e1d5081f53f68ef8fc4da"
+      },
+      {
+        "path": "linux_x86_64/bin/streamfwd-rhel6",
+        "hash": "51a7d1d184374fd436fd9ea5653438d38d01d374c7560b8897a6594493067c62"
+      },
+      {
+        "path": "lookups/stream_app_lookup.csv",
+        "hash": "8168f8c671edc5171e4887aff0bb0494e783b3dd99018090f3c0d10dd6a9dd4b"
+      },
+      {
+        "path": "metadata/default.meta",
+        "hash": "8e0c1f78b2c3e4414fa4f50f758b886f74570c880cd91f0b12cd1dba251aa8ea"
+      },
+      {
+        "path": "README.txt",
+        "hash": "0a8ac6d03f593a4ba9372d95b4a4b73f11fd842332a6daa81b9af7fdff9a6fd1"
+      },
+      {
+        "path": "README/inputs.conf.spec",
+        "hash": "5beb24e00ef9088ba11c1b9790357ba8694caa093369ab02c5235055bf1a6876"
+      },
+      {
+        "path": "README/streamfwd.conf.spec",
+        "hash": "4e04c83cb2bf61ef7b820b1f6c6448a0b4ad527a38659491c5f2343df822de63"
+      },
+      {
+        "path": "set_permissions.sh",
+        "hash": "4d9f61137661bb98ea7b2038bb03200f02aed4eb03cf3b63481e4ec534f41251"
+      },
+      {
+        "path": "ui/css/common.css",
+        "hash": "a58d606a7342eb285a592f90104ccea8dffd972a462067ba3ec81eac27f1675a"
+      },
+      {
+        "path": "ui/css/images/ui-bg_flat_0_aaaaaa_40x100.png",
+        "hash": "9a8492a580bf85d3e98ae8861fbd45567e5a1f83eeafcf9574da0399d5f602ab"
+      },
+      {
+        "path": "ui/css/images/ui-bg_flat_75_ffffff_40x100.png",
+        "hash": "39ab7ccd9f4e82579da78a9241265df288d8eb65dbbd7cf48aed2d0129887df5"
+      },
+      {
+        "path": "ui/css/images/ui-bg_glass_55_fbf9ee_1x400.png",
+        "hash": "691597e8a40a891ea94d3589976ecfc33e6145c49422443b00ac2b5a0022964c"
+      },
+      {
+        "path": "ui/css/images/ui-bg_glass_65_ffffff_1x400.png",
+        "hash": "f0e6cd91b837d5c5644d026e5ffeccd907953317cd5c0f689901733afda260b2"
+      },
+      {
+        "path": "ui/css/images/ui-bg_glass_75_dadada_1x400.png",
+        "hash": "c108f5cbf2dd9ec07a26530695ddd95e1664597ce6c056ae44c162cc2e28cec4"
+      },
+      {
+        "path": "ui/css/images/ui-bg_glass_75_e6e6e6_1x400.png",
+        "hash": "ddf5dd4e0ef2b185e8bb0af7b6e90ebe74a84384cb4700658e76e754c8bfe550"
+      },
+      {
+        "path": "ui/css/images/ui-bg_glass_95_fef1ec_1x400.png",
+        "hash": "f6f1c1bedf1a0f37cfef81d12f5f012869d1ee7c984775a569827a1784d34f5c"
+      },
+      {
+        "path": "ui/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png",
+        "hash": "54270656df079c4da5182629a080fc633b6f84b87985eb016d25a560e2c38d4a"
+      },
+      {
+        "path": "ui/css/images/ui-icons_444444_256x240.png",
+        "hash": "eaf7c7ee2747275dda6c53e731a10db1a7b15f4fbb46e1b69d6bb2056bc9fd81"
+      },
+      {
+        "path": "ui/css/images/ui-icons_555555_256x240.png",
+        "hash": "5d04051dfd9d2d740355404f98a683d1ec0feb2fca7d76e533c1a6e5ce92dd2e"
+      },
+      {
+        "path": "ui/css/images/ui-icons_777620_256x240.png",
+        "hash": "9dbe4a0d03feed6f65eb2560a0a8b4ba4264545ee8fd31c1763a3b219d0328d6"
+      },
+      {
+        "path": "ui/css/images/ui-icons_777777_256x240.png",
+        "hash": "e75b27211e16fcf94715168001bb7055ca376d46f928110ba3d0825232452e5a"
+      },
+      {
+        "path": "ui/css/images/ui-icons_cc0000_256x240.png",
+        "hash": "02891575d4358e9edde3e42d94057f8e9f82a9d64376f71ee86cef149d30537e"
+      },
+      {
+        "path": "ui/css/images/ui-icons_ffffff_256x240.png",
+        "hash": "b6b06deef2b924cc3835d63f4883d47882734a33e71b212d917a68cede3b8e9d"
+      },
+      {
+        "path": "ui/css/jquery-ui.css",
+        "hash": "a7ac54f58ba507b13621ceb6fcf5fe879f5ac9bdcf049d16153110c6ad048c7c"
+      },
+      {
+        "path": "ui/favicon.ico",
+        "hash": "4efbd49c33606ad81d785f48b32280709af10397f7b8e8705aed466290ed6bca"
+      },
+      {
+        "path": "ui/fonts/splunkicons-regular-webfont.eot",
+        "hash": "e50c76d61b3810728075bead216acbf2b3c676c616ebfb6299ba86f35c212efb"
+      },
+      {
+        "path": "ui/fonts/splunkicons-regular-webfont.ttf",
+        "hash": "3a6c7c2d716822c39b9ea107e046d78835566ea540b8d0a433a03129dc2eb261"
+      },
+      {
+        "path": "ui/fonts/splunkicons-regular-webfont.woff",
+        "hash": "2e7d91b6dd191c941d1595b79f89471e952530cfc06f0d94cfab5d1bd9547946"
+      },
+      {
+        "path": "ui/images/ajax-loader.gif",
+        "hash": "1eb9e7880f723999a4ed63eece6a6e4d4976833d3c16dc18b4ace3971728ab0d"
+      },
+      {
+        "path": "ui/index.html",
+        "hash": "00ce866f57f36ca27a2b44e062832360a2da88647b70920c4a6f85d68749660b"
+      },
+      {
+        "path": "ui/js/jquery-ui.min.js",
+        "hash": "793cb14b4ae48e92c4a35eae5d34b4b95092e3cd7995ce342b6895a560ef7526"
+      },
+      {
+        "path": "ui/js/jquery.min.js",
+        "hash": "f7f6a5894f1d19ddad6fa392b2ece2c5e578cbf7da4ea805b6885eb6985b6e3d"
+      },
+      {
+        "path": "ui/js/underscore.min.js",
+        "hash": "218fb1c1fc72e9af6b866f430be2a67fa376392b4db2f4dbf32772671b6ae55c"
+      },
+      {
+        "path": "windows_x86_64/bin/concrt140.dll",
+        "hash": "511aba3d00b9925e7bc64e2132d77a76c1fd9e9d200ec0ef864b7a0f00c68995"
+      },
+      {
+        "path": "windows_x86_64/bin/msvcp140.dll",
+        "hash": "517cd3aac2177a357cca6032f07ad7360ee8ca212a02dd6e1301bf6cfade2094"
+      },
+      {
+        "path": "windows_x86_64/bin/npcap-1.55-oem.exe",
+        "hash": "1f035c0498863b41b64df87099ec20f80c6db26b12d27b5afef1c1ad3fa28690"
+      },
+      {
+        "path": "windows_x86_64/bin/Packet.dll",
+        "hash": "144c37bcc4968fbdf2d0da7d12f900e7222623829d66c79373a2ff4d8f4aa591"
+      },
+      {
+        "path": "windows_x86_64/bin/qmbundle.dll",
+        "hash": "80fd3218ac5111b530328dd23862961e8df56376ae5cf3cead12316fbe93aa6c"
+      },
+      {
+        "path": "windows_x86_64/bin/qmengine.dll",
+        "hash": "3feb531de82c1bc507eae5d3058270d16cb375b3253cd6b94550f3b6b62824a3"
+      },
+      {
+        "path": "windows_x86_64/bin/streamfwd.exe",
+        "hash": "85cb219a1bbc8bfbe9d2b841cc3385410b8b610443e75d3dd14ae972f9ad6235"
+      },
+      {
+        "path": "windows_x86_64/bin/vccorlib140.dll",
+        "hash": "8a442077df17ac412be9072a91e4b2b39a69f1aed189034d34fdd79956d3d6b6"
+      },
+      {
+        "path": "windows_x86_64/bin/vcruntime140.dll",
+        "hash": "d89c7b863fc1ac3a179d45d5fe1b9fd35fb6fbd45171ca68d0d68ab1c1ad04fb"
+      },
+      {
+        "path": "windows_x86_64/bin/wpcap.dll",
+        "hash": "d49e705eb89976eb2f0e974aaa210d4d2cf8efce155f691670bfb6aa3c2ee533"
+      }
+    ]
+  },
+  "products": [
+    {
+      "platform": "splunk",
+      "product": "enterprise",
+      "versions": [
+        "8.0",
+        "8.1",
+        "8.2",
+        "9.0",
+        "9.1",
+        "9.2"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "operatingSystems": [
+        "windows",
+        "linux",
+        "macos",
+        "freebsd",
+        "solaris",
+        "aix"
+      ]
+    },
+    {
+      "platform": "splunk",
+      "product": "cloud",
+      "versions": [
+        "8.0",
+        "8.1",
+        "8.2",
+        "9.0",
+        "9.1",
+        "9.2"
+      ],
+      "architectures": [
+        "x86_64"
+      ],
+      "operatingSystems": [
+        "windows",
+        "linux",
+        "macos",
+        "freebsd",
+        "solaris",
+        "aix"
+      ]
+    }
+  ]
+}
